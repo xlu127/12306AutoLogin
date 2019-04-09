@@ -307,4 +307,4 @@ class Login(object):
 if __name__ == '__main__':
 
     login = Login()
-    login.run(18813297551, "973913425lx")
+    login.run(username, password")
